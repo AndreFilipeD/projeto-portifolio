@@ -1,0 +1,43 @@
+Modelo do portifólio:
+______________________________
+Portfolio
+André 
+Filipe
+
+[
+FrontEnd Developer
+Digital Artist
+Game Developer
+]
+
+Sobre mim
+[
+resumo frontend e outros
+atualmente em busca de oportunidades
+que me permitam criar e solucionar 
+digitais e criativos onde posso contribuir
+com as empresas, com os clientes e meu
+crescimento pessoa.
+], junto ao lado > Contato email, tel, insta, linkedin, github
+
+conhecimentos
+[
+HTML
+CSS
+JAVASCRIPT/TYPESCRIPT
+REACT
+GIMP
+SCRATCH
+FIGMA
+GIT
+]
+
+educação/experiencia/projetos
+fatec / reisoffice / projeto FaceOs
+senai / mapdata    / projeto loja
+
+projetos:
+
+artes digitais:
+
+rodapé:
